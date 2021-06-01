@@ -42,9 +42,9 @@ We developed a semi-automated pipeline to analyse photovoltaic panel performance
 
 ## Flowchart
 
-<!-- <img src="soiling_pipeline2.jpg" title="flow chart" width="70%"> -->
+<img src="soiling_pipeline.svg" title="flow chart" width="70%">
 
-![Workflow](https://drive.google.com/uc?export=download&id=1RypwDdBniHqMIqyJYdtPfkkqyNAvx0Hp)
+<!-- ![Workflow](https://drive.google.com/uc?export=download&id=1RypwDdBniHqMIqyJYdtPfkkqyNAvx0Hp) -->
 
 ## Requirements
 
